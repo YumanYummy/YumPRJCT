@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1636372609 source:c:\users\lenovo legion\desktop\project c\alung\main.c
+	<stdio.h>
+	<stdlib.h>
+

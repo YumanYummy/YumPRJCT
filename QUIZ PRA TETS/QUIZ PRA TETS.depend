@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1637563318 source:c:\users\lenovo legion\desktop\project c\quiz pra tets\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1636509073 source:c:\users\lenovo legion\desktop\project c\quiz pra tets\main2.c
+	<stdio.h>
+	<math.h>
+

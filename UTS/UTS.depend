@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1637999751 source:c:\users\lenovo legion\desktop\project c\uts\main.c
+	<stdio.h>
+	<math.h>
+
